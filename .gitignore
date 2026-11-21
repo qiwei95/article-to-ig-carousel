@@ -1,0 +1,15 @@
+/node_modules/
+/runs/
+/.publish-state/
+/example/media/
+/example/preview.jpg
+/example/manifest.json
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx

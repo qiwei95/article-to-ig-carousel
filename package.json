@@ -1,0 +1,15 @@
+{
+  "name": "article-to-ig-carousel",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "playwright-core": "1.65.1"
+  },
+  "scripts": {
+    "demo": "node preview.mjs example",
+    "test": "node --test publish.test.mjs"
+  }
+}
